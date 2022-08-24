@@ -1,0 +1,22 @@
+[
+    {
+        "model": "takotweakapi.menuitem",
+        "pk": 1,
+        "fields": {
+            "title": "Classic Taco",
+            "description":"The Classic Seasoned ground beef in a crunchy tortilla",
+            "price": 3.99,
+            "type": "Hard Shell"
+        }
+    },
+    {
+        "model": "takotweakapi.menuitem",
+        "pk": 2,
+        "fields": {
+            "title": "Ground Soft",
+            "description":"The Classic Seasoned ground beef in a soft shell tortilla",
+            "price": 3.99,
+            "type": "Soft Shell"
+        }
+    }
+]
