@@ -6,6 +6,7 @@
         "--django-settings-module=takotweak.settings",
     ],
     "cSpell.words": [
+        "takotweakapi",
         "viewsets"
     ],
 }
